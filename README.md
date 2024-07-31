@@ -1,1 +1,1 @@
-# Custom-dark-mode-schedule-macOS
+# Custom dark mode schedule macOS
